@@ -1,3 +1,3 @@
 # mian-demo
 # this is my first repository
-# author=saim
+# author-saim
